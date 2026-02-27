@@ -12,9 +12,9 @@ Como estudiante de Ingeniería de Ciberseguridad (7mo ciclo, Universidad Naciona
 A diferencia de un repositorio estático, este es un proyecto en desarrollo. Las documentaciones proporcionan soluciones técnicas paso a paso. A medida que avanzo en mi formación analítica, la estructura de los reportes irá evolucionando desde guías técnicas básicas hacia resúmenes ejecutivos formales.
 
 La dificultad de cada investigación refleja la calificación oficial de la plataforma de origen:
-* 🟢 **Fácil**
-* 🟡 **Medio**
-* 🔴 **Difícil**
+* 🟢 **Easy**
+* 🟡 **Medium**
+* 🔴 **Hard**
 
 ## Tabla de Investigaciones
 
@@ -23,26 +23,31 @@ Los casos están divididos por disciplinas forenses, siguiendo los estándares d
 ### Network Forensics
 Investigación de tráfico de red, análisis de PCAPs y detección de exfiltración de datos.
 
-| Escenario | Documento | Plataforma | Dificultad | Habilidades Demostradas (Tags) |
+| Escenario | Documento | Plataforma | Dificultad | Herramientas |
 | :--- | :---: | :---: | :---: | :--- |
-| **PacketMaze** | [PDF](./writeups/PacketMaze_Writeup.pdf) | CyberDefenders | 🟢 Fácil | `Wireshark` `FTP/HTTP Analysis` `Data Extraction` |
-| **Tomcat Takeover** | [PDF](./writeups/TomcatTakeover_Writeup.pdf) | CyberDefenders | 🟡 Medio | `Web Shells` `Encrypted Traffic` `Malware Staging` |
+| **PacketMaze** | [PDF](./writeups/PacketMaze_Writeup.pdf) | CyberDefenders | 🟡 Medium | `Wireshark` |
+| **Tomcat Takeover** | [PDF](./writeups/TomcatTakeover_Writeup.pdf) | CyberDefenders | 🟢 Easy | `Wireshark` `NetworkMiner` |
 
-### Threat Intelligence & Malware Analysis
+### Threat Intelligence
 Extracción de Indicadores de Compromiso (IoCs) y análisis de comportamiento de artefactos maliciosos.
 
 | Escenario | Documento | Plataforma | Dificultad | Habilidades Demostradas (Tags) |
 | :--- | :---: | :---: | :---: | :--- |
-| **IcedID** | [PDF](./writeups/IcedID_Writeup.pdf) | CyberDefenders | 🟡 Medio | `OSINT` `VirusTotal` `Malware Behavior` `IoC Extraction` |
+| **IcedID** | [PDF](./writeups/IcedID_Writeup.pdf) | CyberDefenders | 🟢 Easy | `VirusTotal` `Malpedia` `Tria.ge` |
 
-*(Categorías de Endpoint Forensics y Memory Dump Analysis en construcción próximamente...)*
+*(Categorías en construcción próximamente...)*
 
-## Herramientas de Análisis (Stack Tecnológico)
-Una muestra de las herramientas empleadas en la resolución de estos escenarios:
+## Herramientas Utilizadas
 
-* **Análisis de Red:** Wireshark, NetworkMiner, Zeek.
-* **Inteligencia de Amenazas:** VirusTotal, Any.Run, OSINT.
-* **Entornos:** VirtualBox (Entornos aislados de análisis en Ubuntu Linux).
+Algunas de las herramientas utilizadas en estas resoluciones incluyen:
+
+| Categoría | Nombre de la Herramienta | Enlace |
+| :--- | :--- | :--- |
+| **Análisis de Red y Paquetes** | Wireshark | https://www.wireshark.org/ |
+| | NetworkMiner | https://www.netresec.com/?page=NetworkMiner |
+| **Inteligencia de Amenazas y Malware**| VirusTotal | https://www.virustotal.com/ |
+| | Malpedia | https://malpedia.caad.fkie.fraunhofer.de/ |
+| | Tria.ge | https://tria.ge/ |
 
 ---
 *Este repositorio se actualiza continuamente con nuevos escenarios, reportes y análisis técnicos.*
