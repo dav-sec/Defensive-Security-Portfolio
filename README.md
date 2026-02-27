@@ -26,7 +26,7 @@ Investigación de tráfico de red, análisis de PCAPs y detección de exfiltraci
 | Escenario | Documento | Plataforma | Dificultad | Herramientas |
 | :--- | :---: | :---: | :---: | :--- |
 | **PacketMaze** | [PDF](./writeups/PacketMaze_Writeup.pdf) | CyberDefenders | 🟡 Medium | `Wireshark` |
-| **Tomcat Takeover** | [PDF](./writeups/TomcatTakeover_Writeup.pdf) | CyberDefenders | 🟢 Easy | `Wireshark` `NetworkMiner` |
+| **Tomcat Takeover** | [PDF]([./writeups/TomcatTakeover_Writeup.pdf](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/Tomcat%20Takeover/Tomcat%20Takeover%20(CyberDefenders).pdf)) | CyberDefenders | 🟢 Easy | `Wireshark` `NetworkMiner` |
 
 ### Threat Intelligence
 Extracción de Indicadores de Compromiso (IoCs) y análisis de comportamiento de artefactos maliciosos.
