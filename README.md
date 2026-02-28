@@ -46,7 +46,10 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | :--- | :--- | :--- |
 | **Análisis de Red y Paquetes** | Wireshark | https://www.wireshark.org/ |
 | | NetworkMiner | https://www.netresec.com/?page=NetworkMiner |
-| **Inteligencia de Amenazas y Malware**| VirusTotal | https://www.virustotal.com/ |
+| **Análisis de Memoria (Memory Forensics)** | Volatility 3 | https://github.com/volatilityfoundation/volatility3 |
+| **Ingeniería Inversa y Análisis Estático** | Detect It Easy (DIE) | https://github.com/horsicq/Detect-It-Easy |
+| | FLARE FLOSS | https://github.com/mandiant/flare-floss |
+| **Inteligencia de Amenazas y Malware** | VirusTotal | https://www.virustotal.com/ |
 | | Malpedia | https://malpedia.caad.fkie.fraunhofer.de/ |
 | | Tria.ge | https://tria.ge/ |
 
