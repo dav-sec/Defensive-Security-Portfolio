@@ -59,6 +59,9 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | | Malpedia | https://malpedia.caad.fkie.fraunhofer.de/ |
 | | Tria.ge | https://tria.ge/ |
 | | Any.run | https://any.run/ |
+| **Desofuscación y Procesamiento de Datos** | CyberChef | https://gchq.github.io/CyberChef/ |
+| | QuickHash | https://www.quickhash-gui.org/ |
+| **Inteligencia de Red y Geolocalización** | MaxMind Geo IP | https://www.maxmind.com/ |
 
 ---
 *Este repositorio se actualiza continuamente con nuevos escenarios, reportes y análisis técnicos.*
