@@ -56,12 +56,14 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | **Análisis de Logs y Eventos del Sistema** | Event Log Explorer | https://eventlogxp.com/ |
 | **Ingeniería Inversa y Análisis Estático** | Detect It Easy (DIE) | https://github.com/horsicq/Detect-It-Easy |
 | | FLARE FLOSS | https://github.com/mandiant/flare-floss |
+| | Scdbg | https://github.com/BestProjects/scdbg |
 | **Inteligencia de Amenazas y Malware** | VirusTotal | https://www.virustotal.com/ |
 | | Malpedia | https://malpedia.caad.fkie.fraunhofer.de/ |
 | | Tria.ge | https://tria.ge/ |
 | | Any.run | https://any.run/ |
 | **Desofuscación y Procesamiento de Datos** | CyberChef | https://gchq.github.io/CyberChef/ |
 | | QuickHash | https://www.quickhash-gui.org/ |
+| | SpiderMonkey | https://spidermonkey.dev/ |
 | **Inteligencia de Red y Geolocalización** | MaxMind Geo IP | https://www.maxmind.com/ |
 
 ---
