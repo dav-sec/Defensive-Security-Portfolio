@@ -31,6 +31,7 @@ Investigación de tráfico de red, análisis de PCAPs y detección de exfiltraci
 | **BlueSky Ransomware** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/BlueSky%20Ransomware/BlueSky%20Ransomware_CyberDefenders.pdf) | CyberDefenders | 🟡 Medium | `Wireshark` `NetworkMiner` `Event Log Explorer` `Any.run` `VirusTotal` |
 | **OpenWire** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/OpenWire/OpenWire_CyberDefenders.pdf) | CyberDefenders | 🟡 Medium | `Wireshark` `NetworkMiner` |
 | **HawkEye** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/HawkEye/HawkEye_CyberDefenders.pdf) | CyberDefenders | 🟡 Medium | `Wireshark` `NetworkMiner` `MaxMind Geo IP` `QuickHash` `CyberChef` |
+| **NukeTheBrowser** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Hard/NukeTheBrowser/NukeTheBrowser_CyberDefenders.pdf) | CyberDefenders | 🔴 Hard | `Wireshark` `NetworkMiner` `SpiderMonkey` `QuickHash` `CyberChef` `Scdbg` `Detect It Easy (DIE)` |
 
 
 ### Threat Intelligence
