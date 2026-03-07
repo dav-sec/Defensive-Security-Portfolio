@@ -59,7 +59,7 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | | FLARE FLOSS | https://github.com/mandiant/flare-floss |
 | | Scdbg | https://github.com/BestProjects/scdbg |
 | | IDA | https://hex-rays.com/ida-free/ |
-| | Radare2 | https://rada.re/n/ |
+| | Radare2 | https://github.com/radareorg/radare2 |
 | **Inteligencia de Amenazas y Malware** | VirusTotal | https://www.virustotal.com/ |
 | | Malpedia | https://malpedia.caad.fkie.fraunhofer.de/ |
 | | Tria.ge | https://tria.ge/ |
