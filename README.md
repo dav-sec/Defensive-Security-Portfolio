@@ -52,11 +52,14 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | :--- | :--- | :--- |
 | **Análisis de Red y Paquetes** | Wireshark | https://www.wireshark.org/ |
 | | NetworkMiner | https://www.netresec.com/?page=NetworkMiner |
+| | Zui | https://zui.brimdata.io/ |
 | **Análisis de Memoria (Memory Forensics)** | Volatility 3 | https://github.com/volatilityfoundation/volatility3 |
 | **Análisis de Logs y Eventos del Sistema** | Event Log Explorer | https://eventlogxp.com/ |
 | **Ingeniería Inversa y Análisis Estático** | Detect It Easy (DIE) | https://github.com/horsicq/Detect-It-Easy |
 | | FLARE FLOSS | https://github.com/mandiant/flare-floss |
 | | Scdbg | https://github.com/BestProjects/scdbg |
+| | IDA | https://hex-rays.com/ida-free/ |
+| | Radare2 | https://rada.re/n/ |
 | **Inteligencia de Amenazas y Malware** | VirusTotal | https://www.virustotal.com/ |
 | | Malpedia | https://malpedia.caad.fkie.fraunhofer.de/ |
 | | Tria.ge | https://tria.ge/ |
@@ -64,6 +67,7 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | **Desofuscación y Procesamiento de Datos** | CyberChef | https://gchq.github.io/CyberChef/ |
 | | QuickHash | https://www.quickhash-gui.org/ |
 | | SpiderMonkey | https://spidermonkey.dev/ |
+| **Craqueo de Credenciales y Criptografía** | Hashcat | https://hashcat.net/hashcat/ |
 | **Inteligencia de Red y Geolocalización** | MaxMind Geo IP | https://www.maxmind.com/ |
 
 ---
