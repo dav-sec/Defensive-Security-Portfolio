@@ -25,7 +25,7 @@ Investigación de tráfico de red, análisis de PCAPs y detección de exfiltraci
 
 | Escenario | Documento | Plataforma | Dificultad | Herramientas |
 | :--- | :---: | :---: | :---: | :--- |
-| **PacketMaze** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/PacketMaze/PacketMaze_CyberDefenders.pdf) | CyberDefenders | 🟡 Medium | `Wireshark` |
+| **PacketMaze** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/PacketMaze/PacketMaze_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/packetmaze/) | 🟡 Medium | `Wireshark` |
 | **Tomcat Takeover** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/Tomcat%20Takeover/Tomcat%20Takeover_CyberDefenders.pdf) | CyberDefenders | 🟢 Easy | `Wireshark` `NetworkMiner` |
 | **Lockdown** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/Lockdown/Lockdown_CyberDefenders.pdf) | CyberDefenders | 🟢 Easy | `Wireshark` `Volatility 3` `flare-floss` `Detect It Easy (DIE)` `VirusTotal` `Tria.ge` |
 | **BlueSky Ransomware** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/BlueSky%20Ransomware/BlueSky%20Ransomware_CyberDefenders.pdf) | CyberDefenders | 🟡 Medium | `Wireshark` `NetworkMiner` `Event Log Explorer` `Any.run` `VirusTotal` |
