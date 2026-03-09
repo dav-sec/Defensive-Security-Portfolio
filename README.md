@@ -41,6 +41,7 @@ Extracción de Indicadores de Compromiso (IoCs) y análisis de comportamiento de
 | :--- | :---: | :---: | :---: | :--- |
 | **IcedID** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/IcedID/IcedID_CyberDefenders.pdf) | CyberDefenders | 🟢 Easy | `VirusTotal` `Malpedia` `Tria.ge` |
 | **3CX Supply Chain** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/3CX%20Supply%20Chain/3CX%20Supply%20Chain_CyberDefenders.pdf) | CyberDefenders | 🟢 Easy | `VirusTotal` |
+| **Intel101** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/Intel101/Intel101_CyberDefenders.pdf) | CyberDefenders | 🟡 Medium | `Whois` `Wayback Machine` `QuickHash` `Google Lens` |
 
 *(Categorías en construcción próximamente...)*
 
