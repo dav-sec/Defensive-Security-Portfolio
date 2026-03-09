@@ -42,6 +42,7 @@ Extracción de Indicadores de Compromiso (IoCs) y análisis de comportamiento de
 | **IcedID** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/IcedID/IcedID_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/icedid/) | 🟢 Easy | `VirusTotal` `Malpedia` `Tria.ge` |
 | **3CX Supply Chain** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/3CX%20Supply%20Chain/3CX%20Supply%20Chain_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/3cx-supply-chain/) | 🟢 Easy | `VirusTotal` |
 | **Intel101** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/Intel101/Intel101_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/intel101/) | 🟡 Medium | `Whois` `Wayback Machine` `QuickHash` `Google Lens` |
+| **Oski** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/Oski/Oski_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/oski/) | 🟢 Easy | `VirusTotal` `Any.run` |
 
 *(Categorías en construcción próximamente...)*
 
