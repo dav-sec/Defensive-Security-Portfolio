@@ -26,22 +26,22 @@ Investigación de tráfico de red, análisis de PCAPs y detección de exfiltraci
 | Escenario | Documento | Plataforma | Dificultad | Herramientas |
 | :--- | :---: | :---: | :---: | :--- |
 | **PacketMaze** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/PacketMaze/PacketMaze_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/packetmaze/) | 🟡 Medium | `Wireshark` |
-| **Tomcat Takeover** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/Tomcat%20Takeover/Tomcat%20Takeover_CyberDefenders.pdf) | CyberDefenders | 🟢 Easy | `Wireshark` `NetworkMiner` |
-| **Lockdown** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/Lockdown/Lockdown_CyberDefenders.pdf) | CyberDefenders | 🟢 Easy | `Wireshark` `Volatility 3` `flare-floss` `Detect It Easy (DIE)` `VirusTotal` `Tria.ge` |
-| **BlueSky Ransomware** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/BlueSky%20Ransomware/BlueSky%20Ransomware_CyberDefenders.pdf) | CyberDefenders | 🟡 Medium | `Wireshark` `NetworkMiner` `Event Log Explorer` `Any.run` `VirusTotal` |
-| **OpenWire** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/OpenWire/OpenWire_CyberDefenders.pdf) | CyberDefenders | 🟡 Medium | `Wireshark` `NetworkMiner` |
-| **HawkEye** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/HawkEye/HawkEye_CyberDefenders.pdf) | CyberDefenders | 🟡 Medium | `Wireshark` `NetworkMiner` `MaxMind Geo IP` `QuickHash` `CyberChef` |
-| **NukeTheBrowser** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Hard/NukeTheBrowser/NukeTheBrowser_CyberDefenders.pdf) | CyberDefenders | 🔴 Hard | `Wireshark` `NetworkMiner` `SpiderMonkey` `QuickHash` `CyberChef` `Scdbg` `Detect It Easy (DIE)` |
-| **EscapeRoom** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/EscapeRoom/EscapeRoom_CyberDefenders.pdf) | CyberDefenders | 🟡 Medium | `Wireshark` `NetworkMiner` `Zui` `QuickHash` `CyberChef` `Hashcat` `VirusTotal` `IDA` `Radare2` |
+| **Tomcat Takeover** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/Tomcat%20Takeover/Tomcat%20Takeover_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/tomcat-takeover/) | 🟢 Easy | `Wireshark` `NetworkMiner` |
+| **Lockdown** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/Lockdown/Lockdown_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/lockdown/) | 🟢 Easy | `Wireshark` `Volatility 3` `flare-floss` `Detect It Easy (DIE)` `VirusTotal` `Tria.ge` |
+| **BlueSky Ransomware** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/BlueSky%20Ransomware/BlueSky%20Ransomware_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/bluesky-ransomware/) | 🟡 Medium | `Wireshark` `NetworkMiner` `Event Log Explorer` `Any.run` `VirusTotal` |
+| **OpenWire** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/OpenWire/OpenWire_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/openwire/) | 🟡 Medium | `Wireshark` `NetworkMiner` |
+| **HawkEye** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/HawkEye/HawkEye_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/hawkeye/) | 🟡 Medium | `Wireshark` `NetworkMiner` `MaxMind Geo IP` `QuickHash` `CyberChef` |
+| **NukeTheBrowser** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Hard/NukeTheBrowser/NukeTheBrowser_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/nukethebrowser/) | 🔴 Hard | `Wireshark` `NetworkMiner` `SpiderMonkey` `QuickHash` `CyberChef` `Scdbg` `Detect It Easy (DIE)` |
+| **EscapeRoom** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/EscapeRoom/EscapeRoom_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/escaperoom/) | 🟡 Medium | `Wireshark` `NetworkMiner` `Zui` `QuickHash` `CyberChef` `Hashcat` `VirusTotal` `IDA` `Radare2` |
 
 ### Threat Intelligence
 Extracción de Indicadores de Compromiso (IoCs) y análisis de comportamiento de artefactos maliciosos.
 
 | Escenario | Documento | Plataforma | Dificultad | Habilidades Demostradas (Tags) |
 | :--- | :---: | :---: | :---: | :--- |
-| **IcedID** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/IcedID/IcedID_CyberDefenders.pdf) | CyberDefenders | 🟢 Easy | `VirusTotal` `Malpedia` `Tria.ge` |
-| **3CX Supply Chain** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/3CX%20Supply%20Chain/3CX%20Supply%20Chain_CyberDefenders.pdf) | CyberDefenders | 🟢 Easy | `VirusTotal` |
-| **Intel101** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/Intel101/Intel101_CyberDefenders.pdf) | CyberDefenders | 🟡 Medium | `Whois` `Wayback Machine` `QuickHash` `Google Lens` |
+| **IcedID** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/IcedID/IcedID_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/icedid/) | 🟢 Easy | `VirusTotal` `Malpedia` `Tria.ge` |
+| **3CX Supply Chain** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/3CX%20Supply%20Chain/3CX%20Supply%20Chain_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/3cx-supply-chain/) | 🟢 Easy | `VirusTotal` |
+| **Intel101** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/Intel101/Intel101_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/intel101/) | 🟡 Medium | `Whois` `Wayback Machine` `QuickHash` `Google Lens` |
 
 *(Categorías en construcción próximamente...)*
 
