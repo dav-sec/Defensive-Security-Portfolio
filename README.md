@@ -52,25 +52,28 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 
 | Categoría | Nombre de la Herramienta | Enlace |
 | :--- | :--- | :--- |
-| **Análisis de Red y Paquetes** | Wireshark | https://www.wireshark.org/ |
+| **Análisis de Tráfico y Red** | Wireshark | https://www.wireshark.org/ |
 | | NetworkMiner | https://www.netresec.com/?page=NetworkMiner |
 | | Zui | https://zui.brimdata.io/ |
-| **Análisis de Memoria (Memory Forensics)** | Volatility 3 | https://github.com/volatilityfoundation/volatility3 |
-| **Análisis de Logs y Eventos del Sistema** | Event Log Explorer | https://eventlogxp.com/ |
-| **Ingeniería Inversa y Análisis Estático** | Detect It Easy (DIE) | https://github.com/horsicq/Detect-It-Easy |
+| **Forense Digital (Sistemas y Memoria)** | Volatility 3 | https://github.com/volatilityfoundation/volatility3 |
+| | Event Log Explorer | https://eventlogxp.com/ |
+| **Ingeniería Inversa y Análisis de Código** | Detect It Easy (DIE) | https://github.com/horsicq/Detect-It-Easy |
 | | FLARE FLOSS | https://github.com/mandiant/flare-floss |
 | | Scdbg | https://github.com/BestProjects/scdbg |
 | | IDA | https://hex-rays.com/ida-free/ |
 | | Radare2 | https://github.com/radareorg/radare2 |
-| **Inteligencia de Amenazas y Malware** | VirusTotal | https://www.virustotal.com/ |
+| | SpiderMonkey | https://spidermonkey.dev/ |
+| **Procesamiento de Datos y Criptografía** | CyberChef | https://gchq.github.io/CyberChef/ |
+| | QuickHash | https://www.quickhash-gui.org/ |
+| | Hashcat | https://hashcat.net/hashcat/ |
+| **Inteligencia de Amenazas (CTI) y OSINT** | VirusTotal | https://www.virustotal.com/ |
 | | Malpedia | https://malpedia.caad.fkie.fraunhofer.de/ |
 | | Tria.ge | https://tria.ge/ |
 | | Any.run | https://any.run/ |
-| **Desofuscación y Procesamiento de Datos** | CyberChef | https://gchq.github.io/CyberChef/ |
-| | QuickHash | https://www.quickhash-gui.org/ |
-| | SpiderMonkey | https://spidermonkey.dev/ |
-| **Craqueo de Credenciales y Criptografía** | Hashcat | https://hashcat.net/hashcat/ |
-| **Inteligencia de Red y Geolocalización** | MaxMind Geo IP | https://www.maxmind.com/ |
+| | MaxMind Geo IP | https://www.maxmind.com/ |
+| | Wayback Machine | https://archive.org/web/ |
+| | Google Lens | https://lens.google/ |
+| | Whois | https://lookup.icann.org/ |
 
 ---
 *Este repositorio se actualiza continuamente con nuevos escenarios, reportes y análisis técnicos.*
