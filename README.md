@@ -73,6 +73,9 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | | Malpedia | https://malpedia.caad.fkie.fraunhofer.de/ |
 | | Tria.ge | https://tria.ge/ |
 | | Any.run | https://any.run/ |
+| | VMRay | https://www.vmray.com/ |
+| | URLhaus | https://urlhaus.abuse.ch/ |
+| | MalwareBazaar | https://bazaar.abuse.ch/ |
 | | MaxMind Geo IP | https://www.maxmind.com/ |
 | | Wayback Machine | https://archive.org/web/ |
 | | Google Lens | https://lens.google/ |
