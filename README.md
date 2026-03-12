@@ -44,6 +44,7 @@ Extracción de Indicadores de Compromiso (IoCs) y análisis de comportamiento de
 | **Intel101** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/Intel101/Intel101_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/intel101/) | 🟡 Medium | `Whois` `Wayback Machine` `QuickHash` `Google Lens` |
 | **Oski** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/Oski/Oski_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/oski/) | 🟢 Easy | `VirusTotal` `Any.run` |
 | **BRabbit** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/BRabbit/BRabbit_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/brabbit/) | 🟡 Medium | `VirusTotal` `Any.run` `Email Header Analyzer` `Tria.ge` `IDA` `Malpedia` |
+| **PhishStrike** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/PhishStrike/PhishStrike_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/phishstrike/) | 🟡 Medium | `VirusTotal` `Any.run` `Email Header Analyzer` `Tria.ge` `URLHaus` `MalwareBazaar` `CyberChef` `VMRay` |
 
 *(Categorías en construcción próximamente...)*
 
