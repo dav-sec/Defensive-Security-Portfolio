@@ -51,7 +51,7 @@ Análisis de imágenes de disco, revisión de registros del sistema (logs) y rec
 
 | Escenario | Documento | Plataforma | Dificultad | Herramientas |
 | :--- | :---: | :---: | :---: | :--- |
-| **IcedID** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/Insider/Insider_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/insider/) | 🟢 Easy | `FTK Imager` |
+| **Insider** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/Insider/Insider_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/insider/) | 🟢 Easy | `FTK Imager` |
 
 *(Categorías en construcción próximamente...)*
 
