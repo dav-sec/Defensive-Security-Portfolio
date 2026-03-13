@@ -67,6 +67,7 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | | Zui | https://zui.brimdata.io/ |
 | **Forense Digital (Sistemas y Memoria)** | Volatility 3 | https://github.com/volatilityfoundation/volatility3 |
 | | Event Log Explorer | https://eventlogxp.com/ |
+| | FTK Imager | https://accessdata.com/product-download/ftk-imager-version-4-5 |
 | **Ingeniería Inversa y Análisis de Código** | Detect It Easy (DIE) | https://github.com/horsicq/Detect-It-Easy |
 | | FLARE FLOSS | https://github.com/mandiant/flare-floss |
 | | Scdbg | https://github.com/BestProjects/scdbg |
