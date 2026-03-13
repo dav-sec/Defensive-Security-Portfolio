@@ -52,6 +52,7 @@ Análisis de imágenes de disco, revisión de registros del sistema (logs) y rec
 | Escenario | Documento | Plataforma | Dificultad | Herramientas |
 | :--- | :---: | :---: | :---: | :--- |
 | **Insider** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/Insider/Insider_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/insider/) | 🟢 Easy | `FTK Imager` |
+| **The Crime** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/The%20Crime/The%20Crime_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/the-crime/) | 🟢 Easy | `ALEAPP` `DB Browser for SQLite` |
 
 *(Categorías en construcción próximamente...)*
 
@@ -68,6 +69,8 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | **Forense Digital (Sistemas y Memoria)** | Volatility 3 | https://github.com/volatilityfoundation/volatility3 |
 | | Event Log Explorer | https://eventlogxp.com/ |
 | | FTK Imager | https://accessdata.com/product-download/ftk-imager-version-4-5 |
+| | ALEAPP | https://github.com/abrignoni/ALEAPP |
+| | DB Browser for SQLite | https://sqlitebrowser.org/ |
 | **Ingeniería Inversa y Análisis de Código** | Detect It Easy (DIE) | https://github.com/horsicq/Detect-It-Easy |
 | | FLARE FLOSS | https://github.com/mandiant/flare-floss |
 | | Scdbg | https://github.com/BestProjects/scdbg |
