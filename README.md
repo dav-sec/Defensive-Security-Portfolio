@@ -37,7 +37,7 @@ Investigación de tráfico de red, análisis de PCAPs y detección de exfiltraci
 ### Threat Intelligence
 Extracción de Indicadores de Compromiso (IoCs) y análisis de comportamiento de artefactos maliciosos.
 
-| Escenario | Documento | Plataforma | Dificultad | Habilidades Demostradas (Tags) |
+| Escenario | Documento | Plataforma | Dificultad | Herramientas |
 | :--- | :---: | :---: | :---: | :--- |
 | **IcedID** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/IcedID/IcedID_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/icedid/) | 🟢 Easy | `VirusTotal` `Malpedia` `Tria.ge` |
 | **3CX Supply Chain** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/3CX%20Supply%20Chain/3CX%20Supply%20Chain_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/3cx-supply-chain/) | 🟢 Easy | `VirusTotal` |
@@ -45,6 +45,13 @@ Extracción de Indicadores de Compromiso (IoCs) y análisis de comportamiento de
 | **Oski** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/Oski/Oski_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/oski/) | 🟢 Easy | `VirusTotal` `Any.run` |
 | **BRabbit** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/BRabbit/BRabbit_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/brabbit/) | 🟡 Medium | `VirusTotal` `Any.run` `Email Header Analyzer` `Tria.ge` `IDA` `Malpedia` |
 | **PhishStrike** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/PhishStrike/PhishStrike_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/phishstrike/) | 🟡 Medium | `VirusTotal` `Any.run` `Email Header Analyzer` `Tria.ge` `URLHaus` `MalwareBazaar` `CyberChef` `VMRay` |
+
+### Endpoint Forensics
+Análisis de imágenes de disco, revisión de registros del sistema (logs) y reconstrucción de la actividad del usuario.
+
+| Escenario | Documento | Plataforma | Dificultad | Herramientas |
+| :--- | :---: | :---: | :---: | :--- |
+| **IcedID** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/Insider/Insider_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/insider/) | 🟢 Easy | `FTK Imager` |
 
 *(Categorías en construcción próximamente...)*
 
