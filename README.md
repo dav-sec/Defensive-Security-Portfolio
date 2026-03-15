@@ -53,6 +53,7 @@ Análisis de imágenes de disco, revisión de registros del sistema (logs) y rec
 | :--- | :---: | :---: | :---: | :--- |
 | **Insider** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/Insider/Insider_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/insider/) | 🟢 Easy | `FTK Imager` |
 | **The Crime** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/The%20Crime/The%20Crime_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/the-crime/) | 🟢 Easy | `ALEAPP` `DB Browser for SQLite` |
+| **Silent Breach** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/Silent%20Breach/Silent%20Breach_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/silent-breach/) | 🟡 Medium | `FTK Imager` `DB Browser for SQLite` `VirusTotal` `CyberChef` `Strings` |
 
 *(Categorías en construcción próximamente...)*
 
@@ -77,6 +78,7 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | | IDA | https://hex-rays.com/ida-free/ |
 | | Radare2 | https://github.com/radareorg/radare2 |
 | | SpiderMonkey | https://spidermonkey.dev/ |
+| | Strings | https://learn.microsoft.com/en-us/sysinternals/downloads/strings |
 | **Procesamiento de Datos y Criptografía** | CyberChef | https://gchq.github.io/CyberChef/ |
 | | QuickHash | https://www.quickhash-gui.org/ |
 | | Hashcat | https://hashcat.net/hashcat/ |
