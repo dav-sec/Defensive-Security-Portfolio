@@ -54,6 +54,7 @@ Análisis de imágenes de disco, revisión de registros del sistema (logs) y rec
 | **Insider** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/Insider/Insider_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/insider/) | 🟢 Easy | `FTK Imager` |
 | **The Crime** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/The%20Crime/The%20Crime_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/the-crime/) | 🟢 Easy | `ALEAPP` `DB Browser for SQLite` |
 | **Silent Breach** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/Silent%20Breach/Silent%20Breach_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/silent-breach/) | 🟡 Medium | `FTK Imager` `DB Browser for SQLite` `VirusTotal` `CyberChef` `Strings` |
+| **LGDroid** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/LGDroid/LGDroid_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/lgdroid/) | 🟡 Medium | `DB Browser for SQLite` `ssim-calculator` `Epoch Converter` `Strings` |
 
 *(Categorías en construcción próximamente...)*
 
@@ -64,25 +65,27 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 
 | Categoría | Nombre de la Herramienta | Enlace |
 | :--- | :--- | :--- |
-| **Análisis de Tráfico y Red** | Wireshark | https://www.wireshark.org/ |
+| **Análisis de Tráfico de Red** | Wireshark | https://www.wireshark.org/ |
 | | NetworkMiner | https://www.netresec.com/?page=NetworkMiner |
 | | Zui | https://zui.brimdata.io/ |
-| **Forense Digital (Sistemas y Memoria)** | Volatility 3 | https://github.com/volatilityfoundation/volatility3 |
+| **Forense Digital y Análisis de Artefactos** | Volatility 3 | https://github.com/volatilityfoundation/volatility3 |
 | | Event Log Explorer | https://eventlogxp.com/ |
 | | FTK Imager | https://accessdata.com/product-download/ftk-imager-version-4-5 |
 | | ALEAPP | https://github.com/abrignoni/ALEAPP |
 | | DB Browser for SQLite | https://sqlitebrowser.org/ |
-| **Ingeniería Inversa y Análisis de Código** | Detect It Easy (DIE) | https://github.com/horsicq/Detect-It-Easy |
+| **Ingeniería Inversa y Análisis de Malware** | Detect It Easy (DIE) | https://github.com/horsicq/Detect-It-Easy |
 | | FLARE FLOSS | https://github.com/mandiant/flare-floss |
 | | Scdbg | https://github.com/BestProjects/scdbg |
 | | IDA | https://hex-rays.com/ida-free/ |
 | | Radare2 | https://github.com/radareorg/radare2 |
 | | SpiderMonkey | https://spidermonkey.dev/ |
 | | Strings | https://learn.microsoft.com/en-us/sysinternals/downloads/strings |
-| **Procesamiento de Datos y Criptografía** | CyberChef | https://gchq.github.io/CyberChef/ |
+| **Procesamiento y Análisis de Datos** | CyberChef | https://gchq.github.io/CyberChef/ |
 | | QuickHash | https://www.quickhash-gui.org/ |
 | | Hashcat | https://hashcat.net/hashcat/ |
-| **Inteligencia de Amenazas (CTI) y OSINT** | VirusTotal | https://www.virustotal.com/ |
+| | Epoch Converter | https://www.epochconverter.com/ |
+| **Análisis Multimedia y Evidencia Visual** | SSIM Calculator | https://github.com/asanka-code/ssim-calculator.git |
+| **Inteligencia de Amenazas (Threat Intelligence / OSINT)** | VirusTotal | https://www.virustotal.com/ |
 | | Malpedia | https://malpedia.caad.fkie.fraunhofer.de/ |
 | | Tria.ge | https://tria.ge/ |
 | | Any.run | https://any.run/ |
