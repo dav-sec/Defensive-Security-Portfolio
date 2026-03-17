@@ -55,6 +55,7 @@ Análisis de imágenes de disco, revisión de registros del sistema (logs) y rec
 | **The Crime** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/The%20Crime/The%20Crime_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/the-crime/) | 🟢 Easy | `ALEAPP` `DB Browser for SQLite` |
 | **Silent Breach** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/Silent%20Breach/Silent%20Breach_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/silent-breach/) | 🟡 Medium | `FTK Imager` `DB Browser for SQLite` `VirusTotal` `CyberChef` `Strings` |
 | **LGDroid** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/LGDroid/LGDroid_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/lgdroid/) | 🟡 Medium | `DB Browser for SQLite` `ssim-calculator` `Epoch Converter` `Strings` |
+| **BlackEnergy** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/BlackEnergy/BlackEnergy_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/blackenergy/) | 🟡 Medium | `Volatility 2` |
 
 *(Categorías en construcción próximamente...)*
 
@@ -69,6 +70,7 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | | NetworkMiner | https://www.netresec.com/?page=NetworkMiner |
 | | Zui | https://zui.brimdata.io/ |
 | **Forense Digital y Análisis de Artefactos** | Volatility 3 | https://github.com/volatilityfoundation/volatility3 |
+| | Volatility 2 | https://github.com/volatilityfoundation/volatility.git |
 | | Event Log Explorer | https://eventlogxp.com/ |
 | | FTK Imager | https://accessdata.com/product-download/ftk-imager-version-4-5 |
 | | ALEAPP | https://github.com/abrignoni/ALEAPP |
