@@ -57,6 +57,13 @@ Análisis de imágenes de disco, revisión de registros del sistema (logs) y rec
 | **LGDroid** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/LGDroid/LGDroid_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/lgdroid/) | 🟡 Medium | `DB Browser for SQLite` `ssim-calculator` `Epoch Converter` `Strings` |
 | **BlackEnergy** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/BlackEnergy/BlackEnergy_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/blackenergy/) | 🟡 Medium | `Volatility 2` |
 
+### Malware Analysis
+Análisis de software malicioso para identificar su funcionamiento, comportamiento y propósito, incluyendo técnicas de evasión, persistencia y posibles impactos en el sistema.
+
+| Escenario | Documento | Plataforma | Dificultad | Herramientas |
+| :--- | :---: | :---: | :---: | :--- |
+| **FakeGPT** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/FakeGPT/FakeGPT_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/fakegpt/) | 🟢 Easy | `CRX Viewer` `CyberChef` |
+
 *(Categorías en construcción próximamente...)*
 
 
@@ -82,6 +89,7 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | | Radare2 | https://github.com/radareorg/radare2 |
 | | SpiderMonkey | https://spidermonkey.dev/ |
 | | Strings | https://learn.microsoft.com/en-us/sysinternals/downloads/strings |
+| | CRX Viewer | https://robwu.nl/crxviewer/ |
 | **Procesamiento y Análisis de Datos** | CyberChef | https://gchq.github.io/CyberChef/ |
 | | QuickHash | https://www.quickhash-gui.org/ |
 | | Hashcat | https://hashcat.net/hashcat/ |
