@@ -63,6 +63,7 @@ Análisis de software malicioso para identificar su funcionamiento, comportamien
 | Escenario | Documento | Plataforma | Dificultad | Herramientas |
 | :--- | :---: | :---: | :---: | :--- |
 | **FakeGPT** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/FakeGPT/FakeGPT_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/fakegpt/) | 🟢 Easy | `CRX Viewer` `CyberChef` |
+| **GetPDF** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/GetPDF/GetPDF_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/getpdf/) | 🟡 Medium | `Wireshark` `de4js` `QuickHash` `peepdf` `CyberChef` `scdbg` `VirusTotal` |
 
 *(Categorías en construcción próximamente...)*
 
@@ -90,6 +91,8 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | | SpiderMonkey | https://spidermonkey.dev/ |
 | | Strings | https://learn.microsoft.com/en-us/sysinternals/downloads/strings |
 | | CRX Viewer | https://robwu.nl/crxviewer/ |
+| | de4js | https://thanhle.io.vn/de4js/ |
+| | peepdf | https://github.com/jesparza/peepdf |
 | **Procesamiento y Análisis de Datos** | CyberChef | https://gchq.github.io/CyberChef/ |
 | | QuickHash | https://www.quickhash-gui.org/ |
 | | Hashcat | https://hashcat.net/hashcat/ |
