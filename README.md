@@ -64,6 +64,7 @@ Análisis de software malicioso para identificar su funcionamiento, comportamien
 | :--- | :---: | :---: | :---: | :--- |
 | **FakeGPT** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/FakeGPT/FakeGPT_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/fakegpt/) | 🟢 Easy | `CRX Viewer` `CyberChef` |
 | **GetPDF** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/GetPDF/GetPDF_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/getpdf/) | 🟡 Medium | `Wireshark` `de4js` `QuickHash` `peepdf` `CyberChef` `scdbg` `VirusTotal` |
+| **Obfuscated** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/Obfuscated/Obfuscated_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/obfuscated/) | 🟡 Medium | `QuickHash` `Oledump` `Olevba` `Any.run` `de4js` `CyberChef` |
 
 *(Categorías en construcción próximamente...)*
 
@@ -93,6 +94,8 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | | CRX Viewer | https://robwu.nl/crxviewer/ |
 | | de4js | https://thanhle.io.vn/de4js/ |
 | | peepdf | https://github.com/jesparza/peepdf |
+| | oledump | https://github.com/DidierStevens/DidierStevensSuite/blob/master/oledump.py |
+| | olevba | https://github.com/decalage2/oletools/wiki/olevba |
 | **Procesamiento y Análisis de Datos** | CyberChef | https://gchq.github.io/CyberChef/ |
 | | QuickHash | https://www.quickhash-gui.org/ |
 | | Hashcat | https://hashcat.net/hashcat/ |
