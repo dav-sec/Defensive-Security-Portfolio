@@ -66,6 +66,7 @@ Análisis de software malicioso para identificar su funcionamiento, comportamien
 | **GetPDF** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/GetPDF/GetPDF_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/getpdf/) | 🟡 Medium | `Wireshark` `de4js` `QuickHash` `peepdf` `CyberChef` `scdbg` `VirusTotal` |
 | **Obfuscated** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/Obfuscated/Obfuscated_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/obfuscated/) | 🟡 Medium | `QuickHash` `Oledump` `Olevba` `Any.run` `de4js` `CyberChef` |
 | **Emprisa Maldoc** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/Emprisa%20Maldoc/Emprisa%20Maldoc_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/emprisa-maldoc/) | 🟡 Medium | `VirusTotal` `rtfdump` `Any.run` `CyberChef` `scdbg` |
+| **RotaJakiro** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Hard/RotaJakiro/RotaJakiro_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/rotajakiro/) | 🔴 Hard | `QuickHash` `readelf` `Ghidra` `strace` `Wireshark` |
 
 *(Categorías en construcción próximamente...)*
 
@@ -90,6 +91,9 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | | Scdbg | https://github.com/BestProjects/scdbg |
 | | IDA | https://hex-rays.com/ida-free/ |
 | | Radare2 | https://github.com/radareorg/radare2 |
+| | Ghidra | https://ghidra-sre.org/ |
+| | readelf | https://man7.org/linux/man-pages/man1/readelf.1.html |
+| | strace | https://strace.io/ |
 | | SpiderMonkey | https://spidermonkey.dev/ |
 | | Strings | https://learn.microsoft.com/en-us/sysinternals/downloads/strings |
 | | CRX Viewer | https://robwu.nl/crxviewer/ |
