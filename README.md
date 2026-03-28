@@ -67,6 +67,7 @@ Análisis de software malicioso para identificar su funcionamiento, comportamien
 | **Obfuscated** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/Obfuscated/Obfuscated_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/obfuscated/) | 🟡 Medium | `QuickHash` `Oledump` `Olevba` `Any.run` `de4js` `CyberChef` |
 | **Emprisa Maldoc** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/Emprisa%20Maldoc/Emprisa%20Maldoc_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/emprisa-maldoc/) | 🟡 Medium | `VirusTotal` `rtfdump` `Any.run` `CyberChef` `scdbg` |
 | **RotaJakiro** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Hard/RotaJakiro/RotaJakiro_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/rotajakiro/) | 🔴 Hard | `QuickHash` `readelf` `Ghidra` `strace` `Wireshark` |
+| **RE101** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/RE101/RE101_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/re101/) | 🟡 Medium | `IDA` `CyberChef` `zipdetails` `strings` `Hexed.it` |
 
 *(Categorías en construcción próximamente...)*
 
@@ -86,6 +87,7 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | | FTK Imager | https://accessdata.com/product-download/ftk-imager-version-4-5 |
 | | ALEAPP | https://github.com/abrignoni/ALEAPP |
 | | DB Browser for SQLite | https://sqlitebrowser.org/ |
+| | zipdetails | https://github.com/pmqs/zipdetails |
 | **Ingeniería Inversa y Análisis de Malware** | Detect It Easy (DIE) | https://github.com/horsicq/Detect-It-Easy |
 | | FLARE FLOSS | https://github.com/mandiant/flare-floss |
 | | Scdbg | https://github.com/BestProjects/scdbg |
@@ -102,6 +104,7 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | | oledump | https://github.com/DidierStevens/DidierStevensSuite/blob/master/oledump.py |
 | | olevba | https://github.com/decalage2/oletools/wiki/olevba |
 | | rtfdump | https://github.com/DidierStevens/DidierStevensSuite/blob/master/rtfdump.py |
+| | Hexed.it | https://hexed.it/ |
 | **Procesamiento y Análisis de Datos** | CyberChef | https://gchq.github.io/CyberChef/ |
 | | QuickHash | https://www.quickhash-gui.org/ |
 | | Hashcat | https://hashcat.net/hashcat/ |
