@@ -33,6 +33,7 @@ Investigación de tráfico de red, análisis de PCAPs y detección de exfiltraci
 | **HawkEye** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/HawkEye/HawkEye_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/hawkeye/) | 🟡 Medium | `Wireshark` `NetworkMiner` `MaxMind Geo IP` `QuickHash` `CyberChef` |
 | **NukeTheBrowser** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Hard/NukeTheBrowser/NukeTheBrowser_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/nukethebrowser/) | 🔴 Hard | `Wireshark` `NetworkMiner` `SpiderMonkey` `QuickHash` `CyberChef` `Scdbg` `Detect It Easy (DIE)` |
 | **EscapeRoom** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/EscapeRoom/EscapeRoom_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/escaperoom/) | 🟡 Medium | `Wireshark` `NetworkMiner` `Zui` `QuickHash` `CyberChef` `Hashcat` `VirusTotal` `IDA` `Radare2` |
+| **XLMRat** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/XLMRat/XLMRat_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/xlmrat/) | 🟢 Easy | `Wireshark` `Whois` `CyberChef` `VirusTotal` |
 
 ### Threat Intelligence
 Extracción de Indicadores de Compromiso (IoCs) y análisis de comportamiento de artefactos maliciosos.
