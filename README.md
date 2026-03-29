@@ -120,7 +120,7 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | | MaxMind Geo IP | https://www.maxmind.com/ |
 | | Wayback Machine | https://archive.org/web/ |
 | | Google Lens | https://lens.google/ |
-| | Whois | https://lookup.icann.org/ |
+| | Whois | https://www.whois.com/whois/ |
 | | Email Header Analyzer | https://mxtoolbox.com/EmailHeaders.aspx |
 
 ---
