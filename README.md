@@ -6,7 +6,7 @@
 
 Bienvenido a mi repositorio técnico de investigaciones forenses y respuesta a incidentes. 
 
-Como estudiante de Ingeniería de Ciberseguridad preparándome para el sector corporativo, este repositorio funciona como un **laboratorio vivo y en constante evolución**. Aquí documento mis prácticas, resoluciones y metodologías aplicadas a escenarios de ciberataques realistas, con el objetivo de desarrollar una sólida memoria muscular en operaciones de Blue Team.
+Este repositorio funciona como un **laboratorio vivo y en constante evolución**. Aquí documento mis prácticas, resoluciones y metodologías aplicadas a escenarios de ciberataques realistas, con el objetivo de desarrollar una sólida memoria muscular en operaciones de Blue Team.
 
 ## Sobre este proyecto y los Writeups
 A diferencia de un repositorio estático, este es un proyecto en desarrollo. Las documentaciones proporcionan soluciones técnicas paso a paso. A medida que avanzo en mi formación analítica, la estructura de los reportes irá evolucionando desde guías técnicas básicas hacia resúmenes ejecutivos formales.
