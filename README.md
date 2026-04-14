@@ -36,6 +36,7 @@ Investigación de tráfico de red, análisis de PCAPs y detección de exfiltraci
 | **XLMRat** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/XLMRat/XLMRat_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/xlmrat/) | 🟢 Easy | `Wireshark` `Whois` `CyberChef` `VirusTotal` |
 | **DanaBot** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/DanaBot/DanaBot_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/danabot/) | 🟢 Easy | `Wireshark` `VirusTotal` `QuickHash` `Any.run` |
 | **Web Investigation** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/Web%20Investigation/Web%20Investigation_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/web-investigation/) | 🟢 Easy | `Wireshark` `Whois` `CyberChef` |
+| **PsExec Hunt** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/PsExec%20Hunt/PsExec%20Hunt_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/psexec-hunt/) | 🟢 Easy | `Wireshark` |
 
 ### Threat Intelligence
 Extracción de Indicadores de Compromiso (IoCs) y análisis de comportamiento de artefactos maliciosos.
