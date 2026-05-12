@@ -39,6 +39,7 @@ Investigación de tráfico de red, análisis de PCAPs y detección de exfiltraci
 | **PsExec Hunt** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/PsExec%20Hunt/PsExec%20Hunt_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/psexec-hunt/) | 🟢 Easy | `Wireshark` |
 | **Acoustic** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/Acoustic/Acoustic_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/acoustic/) | 🟡 Medium | `Wireshark` `NetworkMiner` |
 | **WireDive** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/WireDive/WireDive_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/wiredive/) | 🟡 Medium | `Wireshark` |
+| **HoneyBOT** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/HoneyBOT/HoneyBOT_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/honeybot/) | 🟡 Medium | `Wireshark` `Whois` `VirusTotal` `scdbg` |
 
 ### Threat Intelligence
 Extracción de Indicadores de Compromiso (IoCs) y análisis de comportamiento de artefactos maliciosos.
