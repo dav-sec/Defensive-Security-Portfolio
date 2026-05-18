@@ -75,6 +75,7 @@ Análisis de software malicioso para identificar su funcionamiento, comportamien
 | **Emprisa Maldoc** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/Emprisa%20Maldoc/Emprisa%20Maldoc_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/emprisa-maldoc/) | 🟡 Medium | `VirusTotal` `rtfdump` `Any.run` `CyberChef` `scdbg` |
 | **RotaJakiro** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Hard/RotaJakiro/RotaJakiro_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/rotajakiro/) | 🔴 Hard | `QuickHash` `readelf` `Ghidra` `strace` `Wireshark` |
 | **RE101** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/RE101/RE101_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/re101/) | 🟡 Medium | `IDA` `CyberChef` `zipdetails` `strings` `Hexed.it` |
+| **Follina** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/BTLO/Easy/Follina/Follina_BTLO.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/follina-f1a3452f34) | 🟢 Easy | `VirusTotal` `Any.run` `Malpedia` |
 
 *(Categorías en construcción próximamente...)*
 
