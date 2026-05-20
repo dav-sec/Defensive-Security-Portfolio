@@ -63,6 +63,7 @@ Análisis de imágenes de disco, revisión de registros del sistema (logs) y rec
 | **Silent Breach** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/Silent%20Breach/Silent%20Breach_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/silent-breach/) | 🟡 Medium | `FTK Imager` `DB Browser for SQLite` `VirusTotal` `CyberChef` `Strings` |
 | **LGDroid** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/LGDroid/LGDroid_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/lgdroid/) | 🟡 Medium | `DB Browser for SQLite` `ssim-calculator` `Epoch Converter` `Strings` |
 | **BlackEnergy** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/BlackEnergy/BlackEnergy_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/blackenergy/) | 🟡 Medium | `Volatility 2` |
+| **Bruteforce** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/BTLO/Medium/Bruteforce/Bruteforce_BTLO.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/bruteforce-16629bf9a2) | 🟡 Medium | `Excel` `Event Viewer` `Whois` |
 
 ### Malware Analysis
 Análisis de software malicioso para identificar su funcionamiento, comportamiento y propósito, incluyendo técnicas de evasión, persistencia y posibles impactos en el sistema.
