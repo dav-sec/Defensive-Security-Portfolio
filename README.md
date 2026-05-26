@@ -97,6 +97,7 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | | ALEAPP | https://github.com/abrignoni/ALEAPP |
 | | DB Browser for SQLite | https://sqlitebrowser.org/ |
 | | zipdetails | https://github.com/pmqs/zipdetails |
+| | Thunderbird | https://www.thunderbird.net/ |
 | **Ingeniería Inversa y Análisis de Malware** | Detect It Easy (DIE) | https://github.com/horsicq/Detect-It-Easy |
 | | FLARE FLOSS | https://github.com/mandiant/flare-floss |
 | | Scdbg | https://github.com/BestProjects/scdbg |
@@ -131,6 +132,7 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | | Google Lens | https://lens.google/ |
 | | Whois | https://whois.domaintools.com/ |
 | | Email Header Analyzer | https://mxtoolbox.com/EmailHeaders.aspx |
+| | urlscan.io | https://urlscan.io/ |
 
 ---
 *Este repositorio se actualiza continuamente con nuevos escenarios, reportes y análisis técnicos.*
