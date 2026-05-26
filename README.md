@@ -78,6 +78,14 @@ Análisis de software malicioso para identificar su funcionamiento, comportamien
 | **RE101** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/RE101/RE101_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/re101/) | 🟡 Medium | `IDA` `CyberChef` `zipdetails` `strings` `Hexed.it` |
 | **Follina** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/BTLO/Easy/Follina/Follina_BTLO.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/follina-f1a3452f34) | 🟢 Easy | `VirusTotal` `Any.run` `Malpedia` |
 
+### Email Forensics
+Análisis de correos electrónicos sospechosos, inspección de encabezados, extracción de artefactos e identificación de técnicas de phishing.
+
+| Escenario | Documento | Plataforma | Dificultad | Herramientas |
+| :--- | :---: | :---: | :---: | :--- |
+| **Phishing Analysis** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/BTLO/Easy/Phishing%20Analysis/Phishing_Analysis_(BTLO).pdf) | [BTLO](https://blueteamlabs.online/home/challenge/phishing-analysis-f92ef500ce) | 🟢 Easy | `Thunderbird` `Whois` `urlscan.io` |
+
+
 *(Categorías en construcción próximamente...)*
 
 
