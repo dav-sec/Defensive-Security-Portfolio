@@ -41,7 +41,7 @@ Investigación de tráfico de red, análisis de PCAPs y detección de exfiltraci
 | **WireDive** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/WireDive/WireDive_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/wiredive/) | 🟡 Medium | `Wireshark` |
 | **HoneyBOT** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/HoneyBOT/HoneyBOT_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/honeybot/) | 🟡 Medium | `Wireshark` `Whois` `VirusTotal` `scdbg` |
 
-### Threat Intelligence
+### Cyber Threat Intelligence
 Extracción de Indicadores de Compromiso (IoCs) y análisis de comportamiento de artefactos maliciosos.
 
 | Escenario | Documento | Plataforma | Dificultad | Herramientas |
