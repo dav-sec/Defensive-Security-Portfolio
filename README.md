@@ -87,6 +87,13 @@ Análisis de correos electrónicos sospechosos, inspección de encabezados, extr
 | **Phishing Analysis** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/BTLO/Easy/Phishing%20Analysis/Phishing_Analysis_(BTLO).pdf) | [BTLO](https://blueteamlabs.online/home/challenge/phishing-analysis-f92ef500ce) | 🟢 Easy | `Thunderbird` `Whois` `urlscan.io` |
 | **Phishing Analysis 2** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/BTLO/Easy/Phishing%20Analysis%202/Phishing_Analysis_2_(BTLO).pdf) | [BTLO](https://blueteamlabs.online/home/challenge/phishing-analysis-2-a1091574b8) | 🟢 Easy | `Thunderbird` `Cyberchef` `microlink.io` |
 
+### SIEM
+Investigación basada en eventos, correlación de logs, detección de amenazas y análisis de actividad utilizando plataformas SIEM.
+
+| Escenario | Documento | Plataforma | Dificultad | Herramientas |
+| :--- | :---: | :---: | :---: | :--- |
+| **Investigating with Splunk** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/TryHackMe/Medium/Investigating%20with%20Splunk/Investigating%20with%20Splunk_TryHackMe.pdf) | [TryHackMe](https://tryhackme.com/room/investigatingwithsplunk) | 🟡 Medium | `Splunk` `Cyberchef` |
+
 *(Categorías en construcción próximamente...)*
 
 
@@ -107,6 +114,7 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | | DB Browser for SQLite | https://sqlitebrowser.org/ |
 | | zipdetails | https://github.com/pmqs/zipdetails |
 | | Thunderbird | https://www.thunderbird.net/ |
+| **SIEM & Log Analysis** | Splunk | https://www.splunk.com/ |
 | **Ingeniería Inversa y Análisis de Malware** | Detect It Easy (DIE) | https://github.com/horsicq/Detect-It-Easy |
 | | FLARE FLOSS | https://github.com/mandiant/flare-floss |
 | | Scdbg | https://github.com/BestProjects/scdbg |
