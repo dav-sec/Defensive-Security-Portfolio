@@ -87,6 +87,7 @@ Análisis de correos electrónicos sospechosos, inspección de encabezados, extr
 | **Phishing Analysis** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/BTLO/Easy/Phishing%20Analysis/Phishing_Analysis_(BTLO).pdf) | [BTLO](https://blueteamlabs.online/home/challenge/phishing-analysis-f92ef500ce) | 🟢 Easy | `Thunderbird` `Whois` `urlscan.io` |
 | **Phishing Analysis 2** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/BTLO/Easy/Phishing%20Analysis%202/Phishing_Analysis_2_(BTLO).pdf) | [BTLO](https://blueteamlabs.online/home/challenge/phishing-analysis-2-a1091574b8) | 🟢 Easy | `Thunderbird` `Cyberchef` `microlink.io` |
 | **The Greenholt Phish** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/TryHackMe/Easy/The%20Greenholt%20Phish/The%20Greenholt%20Phish_TryHackMe.pdf) | [TryHackMe](https://tryhackme.com/room/phishingemails5fgjlzxc) | 🟢 Easy | `Thunderbird` `Whois` `mxtoolbox` `VirusTotal` |
+| **Snapped Phish-ing Line** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/TryHackMe/Easy/Snapped%20Phish-ing%20Line/Snapped%20Phish-ing%20Line_TryHackMe.pdf) | [TryHackMe](https://tryhackme.com/room/snappedphishingline) | 🟢 Easy | `Thunderbird` `Cyberchef` |
 
 ### SIEM
 Investigación basada en eventos, correlación de logs, detección de amenazas y análisis de actividad utilizando plataformas SIEM.
