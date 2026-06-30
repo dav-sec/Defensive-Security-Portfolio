@@ -53,6 +53,7 @@ Extracción de Indicadores de Compromiso (IoCs) y análisis de comportamiento de
 | **BRabbit** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/BRabbit/BRabbit_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/brabbit/) | 🟡 Medium | `VirusTotal` `Any.run` `Email Header Analyzer` `Tria.ge` `IDA` `Malpedia` |
 | **PhishStrike** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/PhishStrike/PhishStrike_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/phishstrike/) | 🟡 Medium | `VirusTotal` `Any.run` `Email Header Analyzer` `Tria.ge` `URLHaus` `MalwareBazaar` `CyberChef` `VMRay` |
 | **ATT&CK** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/BTLO/Easy/ATT%26CK/ATT%26CK_(BTLO).pdf) | [BTLO](https://blueteamlabs.online/home/challenge/attck-0e4914db5d) | 🟢 Easy | `MITRE ATT&CK` `Wayback Machine` |
+| **Tusk Infostealer** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/Tusk%20Infostealer/Tusk%20Infostealer_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/tusk-infostealer/) | 🟢 Easy | `VirusTotal` `Kaspersky Threat Intelligence Portal` |
 
 ### Endpoint Forensics
 Análisis de imágenes de disco, revisión de registros del sistema (logs) y reconstrucción de la actividad del usuario.
@@ -154,5 +155,6 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | | Email Header Analyzer | https://mxtoolbox.com/EmailHeaders.aspx |
 | | urlscan.io | https://urlscan.io/ |
 | | microlink.io | https://github.com/microlinkhq |
+| | Kaspersky Threat Intelligence Portal | https://opentip.kaspersky.com/ |
 ---
 *Este repositorio se actualiza continuamente con nuevos escenarios, reportes y análisis técnicos.*
