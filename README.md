@@ -55,6 +55,7 @@ Extracción de Indicadores de Compromiso (IoCs) y análisis de comportamiento de
 | **ATT&CK** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/BTLO/Easy/ATT%26CK/ATT%26CK_(BTLO).pdf) | [BTLO](https://blueteamlabs.online/home/challenge/attck-0e4914db5d) | 🟢 Easy | `MITRE ATT&CK` `Wayback Machine` |
 | **Tusk Infostealer** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/Tusk%20Infostealer/Tusk%20Infostealer_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/tusk-infostealer/) | 🟢 Easy | `VirusTotal` `Kaspersky Threat Intelligence Portal` |
 | **Red Stealer** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/Red%20Stealer/Red%20Stealer_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/red-stealer/) | 🟢 Easy | `VirusTotal` `Any.run` `MalwareBazaar` `ThreatFox` `Tria.ge` |
+| **Yellow RAT** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/Yellow%20RAT/Yellow%20RAT%20(CyberDefenders).pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/yellow-rat/) | 🟢 Easy | `Malpedia` `Red Canary` `MalwareBazaar` `VirusTotal` |
 
 ### Endpoint Forensics
 Análisis de imágenes de disco, revisión de registros del sistema (logs) y reconstrucción de la actividad del usuario.
@@ -147,6 +148,7 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | | Any.run | https://any.run/ |
 | | VMRay | https://www.vmray.com/ |
 | | ThreatFox | https://threatfox.abuse.ch/ |
+| | Red Canary | https://redcanary.com/ |
 | | URLhaus | https://urlhaus.abuse.ch/ |
 | | MITRE ATT&CK | https://attack.mitre.org/ |
 | | MalwareBazaar | https://bazaar.abuse.ch/ |
