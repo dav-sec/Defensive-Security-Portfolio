@@ -56,6 +56,7 @@ Extracción de Indicadores de Compromiso (IoCs) y análisis de comportamiento de
 | **Tusk Infostealer** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/Tusk%20Infostealer/Tusk%20Infostealer_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/tusk-infostealer/) | 🟢 Easy | `VirusTotal` `Kaspersky Threat Intelligence Portal` |
 | **Red Stealer** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/Red%20Stealer/Red%20Stealer_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/red-stealer/) | 🟢 Easy | `VirusTotal` `Any.run` `MalwareBazaar` `ThreatFox` `Tria.ge` |
 | **Yellow RAT** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/Yellow%20RAT/Yellow%20RAT%20(CyberDefenders).pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/yellow-rat/) | 🟢 Easy | `Malpedia` `Red Canary` `MalwareBazaar` `VirusTotal` |
+| **GrabThePhisher** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/GrabThePhisher/GrabThePhisher_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/grabthephisher/) | 🟢 Easy | `Visual Studio Code` |
 
 ### Endpoint Forensics
 Análisis de imágenes de disco, revisión de registros del sistema (logs) y reconstrucción de la actividad del usuario.
