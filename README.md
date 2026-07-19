@@ -78,7 +78,7 @@ Análisis de software malicioso para identificar su funcionamiento, comportamien
 | :--- | :---: | :---: | :---: | :--- |
 | **FakeGPT** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/FakeGPT/FakeGPT_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/fakegpt/) | 🟢 Easy | `CRX Viewer` `CyberChef` |
 | **GetPDF** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/GetPDF/GetPDF_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/getpdf/) | 🟡 Medium | `Wireshark` `de4js` `QuickHash` `peepdf` `CyberChef` `scdbg` `VirusTotal` |
-| **Obfuscated** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/Obfuscated/Obfuscated_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/obfuscated/) | 🟡 Medium | `QuickHash` `Oledump` `Olevba` `Any.run` `de4js` `CyberChef` |
+| **Obfuscated** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/Obfuscated/Obfuscated_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/obfuscated/) | 🟡 Medium | `QuickHash` `Oledump` `Oletools` `Any.run` `de4js` `CyberChef` |
 | **Emprisa Maldoc** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/Emprisa%20Maldoc/Emprisa%20Maldoc_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/emprisa-maldoc/) | 🟡 Medium | `VirusTotal` `rtfdump` `Any.run` `CyberChef` `scdbg` |
 | **RotaJakiro** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Hard/RotaJakiro/RotaJakiro_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/rotajakiro/) | 🔴 Hard | `QuickHash` `readelf` `Ghidra` `strace` `Wireshark` |
 | **RE101** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/RE101/RE101_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/re101/) | 🟡 Medium | `IDA` `CyberChef` `zipdetails` `strings` `Hexed.it` |
@@ -138,7 +138,7 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | | de4js | https://thanhle.io.vn/de4js/ |
 | | peepdf | https://github.com/jesparza/peepdf |
 | | oledump | https://github.com/DidierStevens/DidierStevensSuite/blob/master/oledump.py |
-| | olevba | https://github.com/decalage2/oletools/wiki/olevba |
+| | oletools | https://github.com/decalage2/oletools/ |
 | | rtfdump | https://github.com/DidierStevens/DidierStevensSuite/blob/master/rtfdump.py |
 | | Hexed.it | https://hexed.it/ |
 | **Procesamiento y Análisis de Datos** | CyberChef | https://gchq.github.io/CyberChef/ |
