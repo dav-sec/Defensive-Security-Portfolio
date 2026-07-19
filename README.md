@@ -83,6 +83,7 @@ Análisis de software malicioso para identificar su funcionamiento, comportamien
 | **RotaJakiro** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Hard/RotaJakiro/RotaJakiro_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/rotajakiro/) | 🔴 Hard | `QuickHash` `readelf` `Ghidra` `strace` `Wireshark` |
 | **RE101** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/RE101/RE101_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/re101/) | 🟡 Medium | `IDA` `CyberChef` `zipdetails` `strings` `Hexed.it` |
 | **Follina** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/BTLO/Easy/Follina/Follina_BTLO.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/follina-f1a3452f34) | 🟢 Easy | `VirusTotal` `Any.run` `Malpedia` |
+| **XWorm** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/XWorm/XWorm_CyberDefenders.pdf) | [Cyberdefenders](https://cyberdefenders.org/blueteam-ctf-challenges/xworm/) | 🟡 Medium | `VirusTotal` `DIE` `dnSpy` `Cyberchef` |
 
 ### Email Forensics
 Análisis de correos electrónicos sospechosos, inspección de encabezados, extracción de artefactos e identificación de técnicas de phishing.
@@ -128,6 +129,7 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | | IDA | https://hex-rays.com/ida-free/ |
 | | Radare2 | https://github.com/radareorg/radare2 |
 | | Ghidra | https://ghidra-sre.org/ |
+| | dnSpy | https://github.com/dnSpyEx/dnSpy |
 | | readelf | https://man7.org/linux/man-pages/man1/readelf.1.html |
 | | strace | https://strace.io/ |
 | | SpiderMonkey | https://spidermonkey.dev/ |
