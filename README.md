@@ -84,6 +84,7 @@ Análisis de software malicioso para identificar su funcionamiento, comportamien
 | **RE101** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/RE101/RE101_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/re101/) | 🟡 Medium | `IDA` `CyberChef` `zipdetails` `strings` `Hexed.it` |
 | **Follina** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/BTLO/Easy/Follina/Follina_BTLO.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/follina-f1a3452f34) | 🟢 Easy | `VirusTotal` `Any.run` `Malpedia` |
 | **XWorm** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/XWorm/XWorm_CyberDefenders.pdf) | [Cyberdefenders](https://cyberdefenders.org/blueteam-ctf-challenges/xworm/) | 🟡 Medium | `VirusTotal` `DIE` `dnSpy` `Cyberchef` |
+| **XLM Macros** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/XLM%20Macros/XLM%20Macros_CyberDefenders.pdf) | [Cyberdefenders](https://cyberdefenders.org/blueteam-ctf-challenges/xlm-macros/) | 🟡 Medium | `oletools` `ms-offcrypto-tool` `MalwareBazaar` `Oledump`  `XLMMacroDeobfuscator`  `VirusTotal` |
 
 ### Email Forensics
 Análisis de correos electrónicos sospechosos, inspección de encabezados, extracción de artefactos e identificación de técnicas de phishing.
@@ -139,6 +140,8 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | | peepdf | https://github.com/jesparza/peepdf |
 | | oledump | https://github.com/DidierStevens/DidierStevensSuite/blob/master/oledump.py |
 | | oletools | https://github.com/decalage2/oletools/ |
+| | ms-offcrypto-tool | https://github.com/nolze/msoffcrypto-tool |
+| | XLMMacroDeobfuscator | https://github.com/DissectMalware/XLMMacroDeobfuscator |
 | | rtfdump | https://github.com/DidierStevens/DidierStevensSuite/blob/master/rtfdump.py |
 | | Hexed.it | https://hexed.it/ |
 | **Procesamiento y Análisis de Datos** | CyberChef | https://gchq.github.io/CyberChef/ |
