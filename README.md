@@ -85,6 +85,7 @@ Análisis de software malicioso para identificar su funcionamiento, comportamien
 | **Follina** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/BTLO/Easy/Follina/Follina_BTLO.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/follina-f1a3452f34) | 🟢 Easy | `VirusTotal` `Any.run` `Malpedia` |
 | **XWorm** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/XWorm/XWorm_CyberDefenders.pdf) | [Cyberdefenders](https://cyberdefenders.org/blueteam-ctf-challenges/xworm/) | 🟡 Medium | `VirusTotal` `DIE` `dnSpy` `Cyberchef` |
 | **XLM Macros** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/XLM%20Macros/XLM%20Macros_CyberDefenders.pdf) | [Cyberdefenders](https://cyberdefenders.org/blueteam-ctf-challenges/xlm-macros/) | 🟡 Medium | `oletools` `ms-offcrypto-tool` `MalwareBazaar` `Oledump`  `XLMMacroDeobfuscator`  `VirusTotal` |
+| **MalDoc101** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/MalDoc101/MalDoc101_CyberDefenders.pdf) | [Cyberdefenders](https://cyberdefenders.org/blueteam-ctf-challenges/maldoc101/) | 🟡 Medium | `olevba` `Oledump` `VirusTotal` `Cyberchef` |
 
 ### Email Forensics
 Análisis de correos electrónicos sospechosos, inspección de encabezados, extracción de artefactos e identificación de técnicas de phishing.
