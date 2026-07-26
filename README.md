@@ -86,6 +86,7 @@ Análisis de software malicioso para identificar su funcionamiento, comportamien
 | **XWorm** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/XWorm/XWorm_CyberDefenders.pdf) | [Cyberdefenders](https://cyberdefenders.org/blueteam-ctf-challenges/xworm/) | 🟡 Medium | `VirusTotal` `DIE` `dnSpy` `Cyberchef` |
 | **XLM Macros** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/XLM%20Macros/XLM%20Macros_CyberDefenders.pdf) | [Cyberdefenders](https://cyberdefenders.org/blueteam-ctf-challenges/xlm-macros/) | 🟡 Medium | `oletools` `ms-offcrypto-tool` `MalwareBazaar` `Oledump`  `XLMMacroDeobfuscator`  `VirusTotal` |
 | **MalDoc101** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/MalDoc101/MalDoc101_CyberDefenders.pdf) | [Cyberdefenders](https://cyberdefenders.org/blueteam-ctf-challenges/maldoc101/) | 🟡 Medium | `olevba` `Oledump` `VirusTotal` `Cyberchef` |
+| **Ransomed** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Hard/Ransomed/Ransomed_CyberDefenders.pdf) | [Cyberdefenders](https://cyberdefenders.org/blueteam-ctf-challenges/ransomed/) | 🔴 Hard | `Detect It Easy (DIE)` `PEStudio` `x32dbg` `scdbg` `MITRE ATT&CK` |
 
 ### Email Forensics
 Análisis de correos electrónicos sospechosos, inspección de encabezados, extracción de artefactos e identificación de técnicas de phishing.
@@ -126,6 +127,8 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | | Thunderbird | https://www.thunderbird.net/ |
 | **SIEM & Log Analysis** | Splunk | https://www.splunk.com/ |
 | **Ingeniería Inversa y Análisis de Malware** | Detect It Easy (DIE) | https://github.com/horsicq/Detect-It-Easy |
+| | PEStudio | https://www.winitor.com/ |
+| | x32dbg | https://x64dbg.com/ |
 | | FLARE FLOSS | https://github.com/mandiant/flare-floss |
 | | Scdbg | https://github.com/BestProjects/scdbg |
 | | IDA | https://hex-rays.com/ida-free/ |
