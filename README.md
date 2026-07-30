@@ -105,6 +105,13 @@ Investigación basada en eventos, correlación de logs, detección de amenazas y
 | :--- | :---: | :---: | :---: | :--- |
 | **Investigating with Splunk** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/TryHackMe/Medium/Investigating%20with%20Splunk/Investigating%20with%20Splunk_TryHackMe.pdf) | [TryHackMe](https://tryhackme.com/room/investigatingwithsplunk) | 🟡 Medium | `Splunk` `Cyberchef` |
 
+### Incident Response
+Reconstrucción de incidentes de seguridad de principio a fin, desde el acceso inicial hasta el impacto final.
+
+| Escenario | Documento | Plataforma | Dificultad | Herramientas |
+| :--- | :---: | :---: | :---: | :--- |
+| **Holmes 2025 2: The Watchman's Residue** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/HackTheBox/Medium/Holmes%202025%202%20The%20Watchman's%20Residue/Holmes%202025%202%20The%20Watchman's%20Residue_CyberDefenders.pdf) | [HackTheBox](https://app.hackthebox.com/sherlocks/Holmes%25202025%25202%253A%2520The%2520Watchman's%2520Residue) | 🟡 Medium | `Wireshark` `Registry Explorer` `MFTECmd` `keepass2john` `John the Ripper` `KeePassXC` |
+
 *(Categorías en construcción próximamente...)*
 
 
