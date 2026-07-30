@@ -123,6 +123,8 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | | FTK Imager | https://accessdata.com/product-download/ftk-imager-version-4-5 |
 | | ALEAPP | https://github.com/abrignoni/ALEAPP |
 | | DB Browser for SQLite | https://sqlitebrowser.org/ |
+| | Registry Explorer | https://ericzimmerman.github.io/#!index.md |
+| | MFTECmd | https://ericzimmerman.github.io/#!index.md |
 | | zipdetails | https://github.com/pmqs/zipdetails |
 | | Thunderbird | https://www.thunderbird.net/ |
 | **SIEM & Log Analysis** | Splunk | https://www.splunk.com/ |
@@ -151,6 +153,9 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | **Procesamiento y Análisis de Datos** | CyberChef | https://gchq.github.io/CyberChef/ |
 | | QuickHash | https://www.quickhash-gui.org/ |
 | | Hashcat | https://hashcat.net/hashcat/ |
+| | keepass2john | https://www.openwall.com/john/ |
+| | John the Ripper | https://www.openwall.com/john/ |
+| | KeePassXC | https://keepassxc.org/ |
 | | Epoch Converter | https://www.epochconverter.com/ |
 | **Análisis Multimedia y Evidencia Visual** | SSIM Calculator | https://github.com/asanka-code/ssim-calculator.git |
 | **Inteligencia de Amenazas (Threat Intelligence / OSINT)** | VirusTotal | https://www.virustotal.com/ |
