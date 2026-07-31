@@ -12,9 +12,11 @@ Este repositorio funciona como un **laboratorio vivo y en constante evolución**
 A diferencia de un repositorio estático, este es un proyecto en desarrollo. Las documentaciones proporcionan soluciones técnicas paso a paso. A medida que avanzo en mi formación analítica, la estructura de los reportes irá evolucionando desde guías técnicas básicas hacia resúmenes ejecutivos formales.
 
 La dificultad de cada investigación refleja la calificación oficial de la plataforma de origen:
+* 🔵 **Very Easy**
 * 🟢 **Easy**
 * 🟡 **Medium**
 * 🔴 **Hard**
+* 🟣 **Insane**
 
 ## Tabla de Investigaciones
 
