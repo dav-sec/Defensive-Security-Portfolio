@@ -101,7 +101,7 @@ Análisis de correos electrónicos sospechosos, inspección de encabezados, extr
 | **The Greenholt Phish** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/TryHackMe/Easy/The%20Greenholt%20Phish/The%20Greenholt%20Phish_TryHackMe.pdf) | [TryHackMe](https://tryhackme.com/room/phishingemails5fgjlzxc) | 🟢 Easy | `Thunderbird` `Whois` `mxtoolbox` `VirusTotal` |
 | **Snapped Phish-ing Line** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/TryHackMe/Easy/Snapped%20Phish-ing%20Line/Snapped%20Phish-ing%20Line_TryHackMe.pdf) | [TryHackMe](https://tryhackme.com/room/snappedphishingline) | 🟢 Easy | `Thunderbird` `Cyberchef` |
 
-### SIEM
+### Threat Hunting
 Investigación basada en eventos, correlación de logs, detección de amenazas y análisis de actividad utilizando plataformas SIEM.
 
 | Escenario | Documento | Plataforma | Dificultad | Herramientas |
