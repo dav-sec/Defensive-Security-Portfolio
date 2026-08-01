@@ -42,6 +42,7 @@ Investigación de tráfico de red, análisis de PCAPs y detección de exfiltraci
 | **Acoustic** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/Acoustic/Acoustic_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/acoustic/) | 🟡 Medium | `Wireshark` `NetworkMiner` |
 | **WireDive** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/WireDive/WireDive_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/wiredive/) | 🟡 Medium | `Wireshark` |
 | **HoneyBOT** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/HoneyBOT/HoneyBOT_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/honeybot/) | 🟡 Medium | `Wireshark` `Whois` `VirusTotal` `scdbg` |
+| **Noxious** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/HackTheBox/Very%20Easy/Noxious/Noxious_CyberDefenders.pdf) | [HackTheBox](https://app.hackthebox.com/sherlocks/Noxious) | 🔵 Very Easy | `Wireshark` `Hashcat` |
 
 ### Cyber Threat Intelligence
 Extracción de Indicadores de Compromiso (IoCs) y análisis de comportamiento de artefactos maliciosos.
