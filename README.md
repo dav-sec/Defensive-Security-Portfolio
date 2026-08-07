@@ -101,12 +101,13 @@ Análisis de correos electrónicos sospechosos, inspección de encabezados, extr
 | **The Greenholt Phish** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/TryHackMe/Easy/The%20Greenholt%20Phish/The%20Greenholt%20Phish_TryHackMe.pdf) | [TryHackMe](https://tryhackme.com/room/phishingemails5fgjlzxc) | 🟢 Easy | `Thunderbird` `Whois` `mxtoolbox` `VirusTotal` |
 | **Snapped Phish-ing Line** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/TryHackMe/Easy/Snapped%20Phish-ing%20Line/Snapped%20Phish-ing%20Line_TryHackMe.pdf) | [TryHackMe](https://tryhackme.com/room/snappedphishingline) | 🟢 Easy | `Thunderbird` `Cyberchef` |
 
-### Threat Hunting
-Investigación basada en eventos, correlación de logs, detección de amenazas y análisis de actividad utilizando plataformas SIEM.
+### SIEM
+Análisis proactivo y reactivo de eventos de seguridad. Correlación avanzada de logs, creación de consultas estructuradas y detección de patrones de amenazas utilizando plataformas de gestión de eventos.
 
 | Escenario | Documento | Plataforma | Dificultad | Herramientas |
 | :--- | :---: | :---: | :---: | :--- |
 | **Investigating with Splunk** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/TryHackMe/Medium/Investigating%20with%20Splunk/Investigating%20with%20Splunk_TryHackMe.pdf) | [TryHackMe](https://tryhackme.com/room/investigatingwithsplunk) | 🟡 Medium | `Splunk` `Cyberchef` |
+| **GhostConnect - TA583** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/GhostConnect%20-%20TA583/GhostConnect%20-%20TA583_CyberDefenders.pdf) | [Cyberdefenders](https://cyberdefenders.org/blueteam-ctf-challenges/ghostconnect-ta583/) | 🟢 Easy | `Splunk` `VirusTotal` |
 
 ### Incident Response
 Reconstrucción de incidentes de seguridad de principio a fin, desde el acceso inicial hasta el impacto final.
