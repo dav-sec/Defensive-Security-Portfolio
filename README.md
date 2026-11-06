@@ -61,6 +61,7 @@ Extracción de Indicadores de Compromiso (IoCs) y análisis de comportamiento de
 | **Yellow RAT** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/Yellow%20RAT/Yellow%20RAT%20(CyberDefenders).pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/yellow-rat/) | 🟢 Easy | `Malpedia` `Red Canary` `MalwareBazaar` `VirusTotal` |
 | **GrabThePhisher** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/GrabThePhisher/GrabThePhisher_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/grabthephisher/) | 🟢 Easy | `Visual Studio Code` |
 | **Lespion** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/Lespion/Lespion_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/lespion/) | 🟢 Easy | `Google Lens` |
+| **Meta** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/BTLO/Easy/Meta/Meta_BTLO.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/meta-b976cec9e2) | 🟢 Easy | `Exiftool` `Google Lens` |
 
 ### Endpoint Forensics
 Análisis de imágenes de disco, revisión de registros del sistema (logs) y reconstrucción de la actividad del usuario.
@@ -140,6 +141,7 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | | MFTECmd | https://ericzimmerman.github.io/#!index.md |
 | | zipdetails | https://github.com/pmqs/zipdetails |
 | | Thunderbird | https://www.thunderbird.net/ |
+| | Exiftool | https://exiftool.org/ |
 | **SIEM & Log Analysis** | Splunk | https://www.splunk.com/ |
 | **Ingeniería Inversa y Análisis de Malware** | Detect It Easy (DIE) | https://github.com/horsicq/Detect-It-Easy |
 | | PEStudio | https://www.winitor.com/ |
