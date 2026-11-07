@@ -113,7 +113,7 @@ Análisis proactivo y reactivo de eventos de seguridad. Correlación avanzada de
 | **GhostConnect - TA583** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/GhostConnect%20-%20TA583/GhostConnect%20-%20TA583_CyberDefenders.pdf) | [Cyberdefenders](https://cyberdefenders.org/blueteam-ctf-challenges/ghostconnect-ta583/) | 🟢 Easy | `Splunk` `VirusTotal` |
 
 ### End-to-End
-Reconstrucción de incidentes de seguridad de principio a fin, combinando distintas técnicas conforme lo exige cada investigación.
+Casos multidisciplinarios que combinan distintas técnicas y herramientas para reconstruir una investigación de principio a fin.
 
 | Escenario | Documento | Plataforma | Dificultad | Herramientas |
 | :--- | :---: | :---: | :---: | :--- |
