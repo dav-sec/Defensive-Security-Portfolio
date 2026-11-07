@@ -112,12 +112,13 @@ Análisis proactivo y reactivo de eventos de seguridad. Correlación avanzada de
 | **Investigating with Splunk** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/TryHackMe/Medium/Investigating%20with%20Splunk/Investigating%20with%20Splunk_TryHackMe.pdf) | [TryHackMe](https://tryhackme.com/room/investigatingwithsplunk) | 🟡 Medium | `Splunk` `Cyberchef` |
 | **GhostConnect - TA583** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Easy/GhostConnect%20-%20TA583/GhostConnect%20-%20TA583_CyberDefenders.pdf) | [Cyberdefenders](https://cyberdefenders.org/blueteam-ctf-challenges/ghostconnect-ta583/) | 🟢 Easy | `Splunk` `VirusTotal` |
 
-### Incident Response
-Reconstrucción de incidentes de seguridad de principio a fin, desde el acceso inicial hasta el impacto final.
+### End-to-End
+Reconstrucción de incidentes de seguridad de principio a fin, combinando distintas técnicas conforme lo exige cada investigación.
 
 | Escenario | Documento | Plataforma | Dificultad | Herramientas |
 | :--- | :---: | :---: | :---: | :--- |
 | **Holmes 2025 2: The Watchman's Residue** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/HackTheBox/Medium/Holmes%202025%202%20The%20Watchman's%20Residue/Holmes%202025%202%20The%20Watchman's%20Residue_CyberDefenders.pdf) | [HackTheBox](https://app.hackthebox.com/sherlocks/Holmes%25202025%25202%253A%2520The%2520Watchman's%2520Residue) | 🟡 Medium | `Wireshark` `Registry Explorer` `MFTECmd` `keepass2john` `John the Ripper` `KeePassXC` |
+| **Veriarty** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/BTLO/Medium/Veriarty/Veriarty_BTLO.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/veriarty-81c20f947f) | 🟡 Medium | `Hashcat` `Veracrypt` `GnuPG` `Thunderbird` `dCode` `CyberChef` |
 
 *(Categorías en construcción próximamente...)*
 
@@ -142,6 +143,8 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | | zipdetails | https://github.com/pmqs/zipdetails |
 | | Thunderbird | https://www.thunderbird.net/ |
 | | Exiftool | https://exiftool.org/ |
+| | VeraCrypt | https://veracrypt.io/ |
+| | GnuPG | https://gnupg.org/ |
 | **SIEM & Log Analysis** | Splunk | https://www.splunk.com/ |
 | **Ingeniería Inversa y Análisis de Malware** | Detect It Easy (DIE) | https://github.com/horsicq/Detect-It-Easy |
 | | PEStudio | https://www.winitor.com/ |
@@ -172,6 +175,8 @@ Algunas de las herramientas utilizadas en estas resoluciones incluyen:
 | | John the Ripper | https://www.openwall.com/john/ |
 | | KeePassXC | https://keepassxc.org/ |
 | | Epoch Converter | https://www.epochconverter.com/ |
+| | Hashcat | https://hashcat.net/hashcat/ |
+| | dCode | https://www.dcode.fr/ |
 | **Análisis Multimedia y Evidencia Visual** | SSIM Calculator | https://github.com/asanka-code/ssim-calculator.git |
 | **Inteligencia de Amenazas (Threat Intelligence / OSINT)** | VirusTotal | https://www.virustotal.com/ |
 | | Malpedia | https://malpedia.caad.fkie.fraunhofer.de/ |
