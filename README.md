@@ -93,6 +93,7 @@ Análisis de software malicioso para identificar su funcionamiento, comportamien
 | **MalDoc101** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/MalDoc101/MalDoc101_CyberDefenders.pdf) | [Cyberdefenders](https://cyberdefenders.org/blueteam-ctf-challenges/maldoc101/) | 🟡 Medium | `olevba` `Oledump` `VirusTotal` `Cyberchef` |
 | **Ransomed** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Hard/Ransomed/Ransomed_CyberDefenders.pdf) | [Cyberdefenders](https://cyberdefenders.org/blueteam-ctf-challenges/ransomed/) | 🔴 Hard | `Detect It Easy (DIE)` `PEStudio` `x32dbg` `scdbg` `MITRE ATT&CK` |
 | **Malicious PowerShell Analysis** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/BTLO/Medium/Malicious%20PowerShell%20Analysis/Malicious%20PowerShell%20Analysis_BTLO.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/malicious-powershell-analysis-bf6b52faef) | 🟡 Medium | `Cyberchef` `MalwareBazaar` `VirusTotal` |
+| **Mellisa** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/BTLO/Easy/Melissa/Melissa_BTLO.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/melissa-2e0e37b4d1) | 🟢 Easy | `Oletools` `Exiftool` `Oledump` |
 
 ### Email Forensics
 Análisis de correos electrónicos sospechosos, inspección de encabezados, extracción de artefactos e identificación de técnicas de phishing.
