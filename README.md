@@ -75,6 +75,7 @@ Análisis de imágenes de disco, revisión de registros del sistema (logs) y rec
 | **BlackEnergy** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/CyberDefenders/Medium/BlackEnergy/BlackEnergy_CyberDefenders.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/blackenergy/) | 🟡 Medium | `Volatility 2` |
 | **Bruteforce** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/BTLO/Medium/Bruteforce/Bruteforce_BTLO.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/bruteforce-16629bf9a2) | 🟡 Medium | `Excel` `Event Viewer` `Whois` |
 | **Secure Shell** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/BTLO/Hard/Secure%20Shell/Secure%20Shell_BTLO.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/secure-shell-1aecac55c3) | 🔴 Hard | `Linux CLI` |
+| **Paranoid** | [PDF](https://github.com/dav-sec/Defensive-Security-Portfolio/blob/main/Writeups/BTLO/Medium/Paranoid/Paranoid_BTLO.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/paranoid-e5e164befb) | 🟡 Medium | `Linux CLI` `Cyberchef` |
 
 ### Malware Analysis
 Análisis de software malicioso para identificar su funcionamiento, comportamiento y propósito, incluyendo técnicas de evasión, persistencia y posibles impactos en el sistema.
